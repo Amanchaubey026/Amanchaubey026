@@ -13,11 +13,7 @@
 <div id="desc" align="center">
 <p style="text-align:center;font-size:160%;">Aman Chaubey here. At the moment, I am working towards enhancing my skills in MERN STACK DEVELOPMENT. Here, I collaborate with my team and share projects<br>I have completed.</p>
 </div>
-<hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchaubey026&label=Profile%20views&color=0e75b6&style=flat" alt="amanchaubey026" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanchaubey026" alt="amanchaubey026" /></a> </p>
+<hr align="center">
 
 - 🔭 I’m currently working on [Fashion Fusion](https://fashionfusion04.netlify.app/)
 
