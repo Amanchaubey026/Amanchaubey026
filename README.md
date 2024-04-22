@@ -13,7 +13,7 @@
 <div id="desc" align="center">
 <p style="text-align:center;font-size:160%;">Aman Chaubey here. At the moment, I am working towards enhancing my skills in MERN STACK DEVELOPMENT. Here, I collaborate with my team and share projects<br>I have completed.</p>
 </div>
-<hr align="center">
+<hr style="text-align:center;">
 
 - 🔭 I’m currently working on [Fashion Fusion](https://fashionfusion04.netlify.app/)
 
