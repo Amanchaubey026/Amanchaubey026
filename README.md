@@ -1,3 +1,5 @@
+[![Banner](https://github.com/Amanchaubey026/Amanchaubey026/blob/main/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner.gif?raw=true)](https://your-link.com)
+
 <link href='https://fonts.googleapis.com/css?family=Unbounded' rel='stylesheet'>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="250"/><br>
