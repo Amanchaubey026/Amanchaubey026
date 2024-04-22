@@ -1,41 +1,73 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-<h1 align="center">Hello 👋,my name is Aman Chabey</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCISN_L2XuYbAuvlZePfxIK5HkbdlZk1y9cg&usqp=CAU" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU"/>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchaubey026&label=Profile%20views&color=0e75b6&style=flat" alt="amanchaubey026" /> </p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aman Chabey - MERN Developer</title>
+</head>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanchaubey026" alt="amanchaubey026" /></a> </p>
+<body>
+    <div style="display: flex; flex-direction: row; align-items: flex-start;">
+        <div style="flex: 1; padding-right: 20px;">
+            <h1>Hello 👋, my name is Aman Chabey</h1>
+            <h3>A passionate MERN developer from India</h3>
 
-- 🔭 I’m currently working on [Fashion Fusion](https://fashionfusion04.netlify.app/)
+            <p>
+                <img src="https://komarev.com/ghpvc/?username=amanchaubey026&label=Profile%20views&color=0e75b6&style=flat"
+                    alt="amanchaubey026" />
+            </p>
 
-- 🌱 I’m currently learning **Backend**
+            <p>
+                <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+                        src="https://github-profile-trophy.vercel.app/?username=amanchaubey026"
+                        alt="amanchaubey026" /></a>
+            </p>
 
-- 👯 I’m looking to collaborate on [Basket Blend](https://syntax-craftsman-9012.vercel.app/)
+            <p>🔭 I’m currently working on <a href="https://fashionfusion04.netlify.app/">Fashion Fusion</a></p>
+            <p>🌱 I’m currently learning Backend</p>
+            <p>👯 I’m looking to collaborate on <a href="https://syntax-craftsman-9012.vercel.app/">Basket Blend</a></p>
+            <p>🤝 I’m looking for help with <a href="https://lensloom.netlify.app/">LensLoom</a></p>
+            <p>👨‍💻 All of my projects are available at <a href="https://amans-portfolio-website.netlify.app/">https://amans-portfolio-website.netlify.app/</a></p>
+            <p>💬 Ask me about React, JavaScript</p>
+            <p>📫 How to reach me <a href="mailto:amanchaubey86@gmail.com">amanchaubey86@gmail.com</a></p>
+            <p>📄 Know about my experiences <a href="https://drive.google.com/drive/u/2/folders/1fhELuMG5FX4HvIlc8Xo0BcK1dhPiIHBE">here</a></p>
+            <p>⚡ Fun fact: Why did the developer refuse to play hide and seek? Because they were tired of always finding bugs!</p>
 
-- 🤝 I’m looking for help with [LensLoom](https://lensloom.netlify.app/)
+            <h3>Connect with me:</h3>
+            <p>
+                <a href="https://linkedin.com/in/www.linkedin.com/in/amanchaubey026" target="blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                        alt="www.linkedin.com/in/amanchaubey026" height="30" width="40" />
+                </a>
+                <a href="https://www.leetcode.com/amanchaubey86" target="blank">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+                        alt="amanchaubey86" height="30" width="40" />
+                </a>
+            </p>
 
-- 👨‍💻 All of my projects are available at [https://amans-portfolio-website.netlify.app/](https://amans-portfolio-website.netlify.app/)
+            <h3>Languages and Tools:</h3>
+            <p>
+                <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="HTML5" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/css/css-icon.svg" alt="CSS3" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
+                <!-- Add more icons as needed -->
+            </p>
+        </div>
 
-- 💬 Ask me about **React,JavaScript**
+        <div style="flex: 1;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCISN_L2XuYbAuvlZePfxIK5HkbdlZk1y9cg&usqp=CAU"
+                alt="Profile Image" width="400" />
+        </div>
+    </div>
+</body>
 
-- 📫 How to reach me **amanchaubey86@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/1fhELuMG5FX4HvIlc8Xo0BcK1dhPiIHBE](https://drive.google.com/drive/u/2/folders/1fhELuMG5FX4HvIlc8Xo0BcK1dhPiIHBE)
-
-- ⚡ Fun fact **Why did the developer refuse to play hide and seek? Because they were tired of always finding bugs!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amanchaubey026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amanchaubey026" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amanchaubey86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanchaubey86" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanchaubey026&show_icons=true&locale=en&layout=compact" alt="amanchaubey026" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchaubey026&show_icons=true&locale=en" alt="amanchaubey026" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanchaubey026&" alt="amanchaubey026" /></p>
+</html>
