@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="redux" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" align="center" alt="react-router" />
-<img src="https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap-&logoColor=white" align="center" alt="bootstrap-" />
 
 <br/>
 <br/>
