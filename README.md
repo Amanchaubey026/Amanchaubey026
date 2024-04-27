@@ -98,5 +98,3 @@
 <h2 align="left">⚡Activity Graph:</h2>
 
 <a href="https://github.com/amanchaubey026"><img alt="Aman Chaubey Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amanchaubey026&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/></a>
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/amanchaubey026/)
